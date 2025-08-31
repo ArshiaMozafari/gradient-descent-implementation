@@ -26,8 +26,8 @@ Gradient Descent is a core optimization algorithm used to **minimize loss functi
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/gradient-descent-optimizer.git
-cd gradient-descent-optimizer
+git clone https://github.com/ArshiaMozafari/gradient-descent-optimizer.git
+cd gd-optimizer
 
 # Install dependencies
 pip install numpy matplotlib
